@@ -28,8 +28,6 @@
     
 # class Menejer(Employee):
 
-    
-
 # d1 = Developer("Kimdur","Nimadirov",5200,5,"Python")
 # d2 = Developer("Eshmat","toshmatov",5200,5,"node")
 # d3 = Developer("Ismat","qalandarov",5200,5,"c")

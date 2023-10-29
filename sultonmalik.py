@@ -5,6 +5,7 @@
 #         self.oylik=oylik
 #         self.tajriba=tajriba
 
+
 #     def full_name(self):
 #         return f"{self.ism} {self.familya}"
     

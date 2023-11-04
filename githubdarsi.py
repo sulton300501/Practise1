@@ -13,7 +13,6 @@ win.setStyleSheet("background-color:Lightgreen")
 
 
 
-
 lbl = QLabel("salom",win)
 # lbl.move(150, 0)
 # lbl.setText("Arsenal is champion")

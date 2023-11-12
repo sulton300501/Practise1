@@ -14,8 +14,5 @@ def setZeroes(matrix):
             print(zero_rows)
 
 
-
-
-
 matrix = [[1, 1, 1], [1, 0, 1], [1, 1, 1]]
 result = setZeroes(matrix)

@@ -9,6 +9,7 @@ class Market:
         print(f"{self.product}")
 
     
+    
     def add_product(self,prod:dict):
         self.product.update(prod)
        
